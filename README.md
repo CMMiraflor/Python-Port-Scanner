@@ -26,7 +26,9 @@
 - internet connection (for set up)
 
 **Installation**
+<br />
 `pip install -r requirements.txt`
 
 **How to run**
+<br />
 `python3 Scanner.py`
